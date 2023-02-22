@@ -1,5 +1,5 @@
 
-## Olá eu sou Felipe Silva e estou trabalhando como Devops Jr!
+## Olá eu sou Felipe Silva e estou trabalhando como DevOps Jr!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesdevops&show_icons=true&theme=dark)
 <!--
